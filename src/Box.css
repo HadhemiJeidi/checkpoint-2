@@ -1,0 +1,13 @@
+.Box-name {
+    text-align: center;
+  }
+.Box-image {
+    display: inline-block ;
+    width:22% ;
+    height: 100vmin;
+    margin-right: 5px;
+  }
+  .Box-content {
+    width:25% ;
+    height: 40vmin; 
+  } 
